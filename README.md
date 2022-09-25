@@ -1,0 +1,2 @@
+# studiesPy
+Studies python simple.
